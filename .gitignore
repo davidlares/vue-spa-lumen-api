@@ -1,0 +1,9 @@
+notaciones.txt
+/webapp/node_modules
+/webapp/README.md
+api/vendor
+api/.idea
+api/Homestead.json
+api/Homestead.yaml
+api/.env
+api/readme.md
