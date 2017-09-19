@@ -1,9 +1,12 @@
 notaciones.txt
-/webapp/node_modules
-/webapp/README.md
+webapp/node_modules/bootstrap
+webapp/node_modules
+webapp/README.md
+webapp/.gitignore
 api/vendor
 api/.idea
 api/Homestead.json
 api/Homestead.yaml
 api/.env
+api/.gitignore
 api/readme.md
