@@ -1,4 +1,4 @@
-# DavidRest
+## DavidRest
 
 DavidRest es un ejemplo de práctica de integración de VueJS y un API REST desarrollado en Lumen MicroFramework (PHP)
 
